@@ -10,6 +10,7 @@
 // }
 // showData<number>(10)
 // Hàm Sort
+// Đỗ Hữu Duy -PH26793
 const numArr = [1, 2, 9, 5, 8, 13]
 const strArr = ["Hoa", "Duy", "Vu Anh"]
 
